@@ -10,7 +10,7 @@ When it comes to agricultural products, eggs must be one of those things that co
 # Analysis
 Here is our work on the [Google Colab](Presentation.ipynb)
 
-![IMG_0169](IMG_0169.png)
+![IMG_0169](IMG_0169.jpeg)
 
 ![IMG_0170](IMG_0170.png)
 
