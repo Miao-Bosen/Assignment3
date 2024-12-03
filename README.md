@@ -1,4 +1,4 @@
-# Assignment3 Presentation
+# Presentation
 Miao Bosen, Riley Andreachuk
 
 
