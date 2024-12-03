@@ -29,5 +29,6 @@ A high GDP often means higher productivity and demand, which can affect egg pric
 ![IMG_0155](IMG_0155.png)
 
 # Conclusion
-According to the research, 
--0.2 indicates that there is a very weak negative linear relationship between countries' GDP and egg prices.
+The main difficulty in this project is converting the price to each countries' local price.
+According to the research, among the ten countries we selected, Costa Rica has the lowest price and Ghana has the highest price.
+-0.2 indicates that there is a very weak negative linear relationship between countries' GDP and egg prices,which means GDP may not have an impact on the price.
