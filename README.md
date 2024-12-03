@@ -9,12 +9,30 @@ When it comes to agricultural products, eggs must be one of those things that co
 
 # Analysis
 Here is our work on the [Google Colab](Presentation.ipynb)
-currency_name = make_array("EUR", "HRK", "GHS", "PLN", "ZAR", "CZK", "CAD", "EUR", "JOD", "CRC")
 
-![IMG_0168](IMG_0168.png)
+![IMG_0169](IMG_0169.png)
 
+![IMG_0170](IMG_0170.png)
 
-![IMG_0154](IMG_0154.png)
+![IMG_0171](IMG_0171.png)
+
+![IMG_0172](IMG_0172.png)
+
+![IMG_0173](IMG_0173.png)
+
+![IMG_0174](IMG_0174.png)
+
+![IMG_0175](IMG_0175.png)
+
+![IMG_0176](IMG_0176.png)
+
+![IMG_0177](IMG_0177.png)
+
+![IMG_0178](IMG_0178.png)
+
+![IMG_0179](IMG_0179.png)
+
+![IMG_0180](IMG_0180.png)
 
 
 
@@ -24,10 +42,7 @@ currency_name = make_array("EUR", "HRK", "GHS", "PLN", "ZAR", "CZK", "CAD", "EUR
 A high GDP often means higher productivity and demand, which can affect egg prices. GDP is also related to several concepts like inflation and international trade. We believe that GDP is not a direct factor in determining egg prices, but it can indirectly affect it through various mechanisms such as supply and demand, production costs, and policies.
 
 
-![IMG_0152](IMG_0152.png)
 
-
-![IMG_0155](IMG_0155.png)
 
 # Conclusion
 The main difficulty in this project is converting the price to each countries' local price.
