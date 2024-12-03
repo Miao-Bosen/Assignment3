@@ -9,6 +9,7 @@ When it comes to agricultural products, eggs must be one of those things that co
 
 # Analysis
 Here is our work on the [Google Colab](Presentation.ipynb)
+currency_name = make_array("EUR", "HRK", "GHS", "PLN", "ZAR", "CZK", "CAD", "EUR", "JOD", "CRC")
 
 ![IMG_0168](IMG_0168.png)
 
