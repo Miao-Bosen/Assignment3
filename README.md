@@ -29,4 +29,5 @@ A high GDP often means higher productivity and demand, which can affect egg pric
 ![IMG_0155](IMG_0155.png)
 
 # Conclusion
-
+According to the research, 
+-0.2 indicates that there is a very weak negative linear relationship between countries' GDP and egg prices.
