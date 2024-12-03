@@ -25,3 +25,6 @@ A high GDP often means higher productivity and demand, which can affect egg pric
 
 
 ![IMG_0155](IMG_0155.png)
+
+# Conclusion
+
