@@ -22,6 +22,8 @@ Here is our work on the [Google Colab](Presentation.ipynb)
 
 ![IMG_0174](IMG_0174.jpeg)
 
+![IMG_0181](IMG_0181.jpeg)
+
 ![IMG_0175](IMG_0175.jpeg)
 
 ![IMG_0176](IMG_0176.jpeg)
