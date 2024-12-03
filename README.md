@@ -12,27 +12,27 @@ Here is our work on the [Google Colab](Presentation.ipynb)
 
 ![IMG_0169](IMG_0169.jpeg)
 
-![IMG_0170](IMG_0170.png)
+![IMG_0170](IMG_0170.jpeg)
 
-![IMG_0171](IMG_0171.png)
+![IMG_0171](IMG_0171.jpeg)
 
-![IMG_0172](IMG_0172.png)
+![IMG_0172](IMG_0172.jpeg)
 
-![IMG_0173](IMG_0173.png)
+![IMG_0173](IMG_0173.jpeg)
 
-![IMG_0174](IMG_0174.png)
+![IMG_0174](IMG_0174.jpeg)
 
-![IMG_0175](IMG_0175.png)
+![IMG_0175](IMG_0175.jpeg)
 
-![IMG_0176](IMG_0176.png)
+![IMG_0176](IMG_0176.jpeg)
 
-![IMG_0177](IMG_0177.png)
+![IMG_0177](IMG_0177.jpeg)
 
-![IMG_0178](IMG_0178.png)
+![IMG_0178](IMG_0178.jpeg)
 
-![IMG_0179](IMG_0179.png)
+![IMG_0179](IMG_0179.jpeg)
 
-![IMG_0180](IMG_0180.png)
+![IMG_0180](IMG_0180.jpeg)
 
 
 
