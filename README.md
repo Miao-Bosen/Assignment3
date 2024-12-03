@@ -2,4 +2,4 @@
 Miao Bosen, Riley Andreachuk
 
 
-![IMG_0152](IMG_0152.png,"picture")
+![IMG_0152](IMG_0152.png)
