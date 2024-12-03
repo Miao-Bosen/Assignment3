@@ -8,7 +8,7 @@ When it comes to agricultural products, eggs must be one of those things that co
 
 
 # Analysis
-![IMG_0153](IMG_0153.png)
+![IMG_0168](IMG_0168.png)
 
 
 ![IMG_0154](IMG_0154.png)
