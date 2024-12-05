@@ -63,36 +63,42 @@ After applying this code we get the following table
 
 ![image](https://github.com/user-attachments/assets/2df0e3b6-fa6e-456a-af3c-e834dfb9d5fe)
 
+This is our fully cleaned data set
+
+Next we are going to compare the eggs prices with the price in CAD
+
+![image](https://github.com/user-attachments/assets/74d4f0d4-3c1a-4f09-a77e-1cde9d19e561)
+
+After running this code and plotting it we can see the diffrence between the countries in relation to Canada
+
+![image](https://github.com/user-attachments/assets/3d1c9355-377c-49b4-9fa3-ca0a0817a6ef)
+
+#
 
 
-
-
-This is the graph we get.
-
-![IMG_0174](IMG_0174.jpeg)
-
-![IMG_0181](IMG_0181.jpeg)
-
-![IMG_0175](IMG_0175.jpeg)
-
-![IMG_0176](IMG_0176.jpeg)
-
-![IMG_0177](IMG_0177.jpeg)
-
-![IMG_0178](IMG_0178.jpeg)
-
-![IMG_0179](IMG_0179.jpeg)
-
-![IMG_0180](IMG_0180.jpeg)
-
-
-
-
+Next is our external factor, each countries GDP
 
 # The reason why we choose GDP as the external factor
 A high GDP often means higher productivity and demand, which can affect egg prices. GDP is also related to several concepts like inflation and international trade. We believe that GDP is not a direct factor in determining egg prices, but it can indirectly affect it through various mechanisms such as supply and demand, production costs, and policies.
 
 
+First we need to import a csv with the GDPs of all of our countries
+![image](https://github.com/user-attachments/assets/e0be35ab-8875-4dbb-babb-3c5c95422a3e)
+![image](https://github.com/user-attachments/assets/9c07e54f-f741-4a6c-9592-e7c7ea7e2bcc)
+
+
+Then after this we join this table back with our original 
+
+![image](https://github.com/user-attachments/assets/fe5305c0-9e71-427e-ab15-cd1dd00f8cf0)
+
+We then use this information to plot it using a scatterplot
+
+![image](https://github.com/user-attachments/assets/738e9d94-fe93-4966-bde8-077f165a49be)
+
+
+The final step in our analysis would be to find the correlation bettween GDP and price of eggs
+
+![image](https://github.com/user-attachments/assets/0f2b8fe1-d64f-409c-a0fd-e8529a52fc56)
 
 
 # Conclusion
