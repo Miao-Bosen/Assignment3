@@ -2,6 +2,7 @@
 Miao Bosen, Riley Andreachuk
 
 CCID:bmiao1, randreac
+![image](https://github.com/user-attachments/assets/19aa2a73-3627-440b-b07a-064941a1b324)
 
 
 # Introduction
