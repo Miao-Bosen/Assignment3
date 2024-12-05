@@ -49,6 +49,11 @@ Here we use a with column function to create a new column and adds it to the ori
 
 ![IMG_0173](IMG_0173.jpeg)
 
+After converting everything to local price we have to add the currency symbols, we acheive this through the following to lines of Code
+
+![image](https://github.com/user-attachments/assets/97319b26-b25f-4e20-98db-b77d7f87f826)
+
+After applying the code we get the following table
 
 
 This is the graph we get.
