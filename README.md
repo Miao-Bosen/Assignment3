@@ -12,9 +12,13 @@ When it comes to agricultural products, eggs must be one of those things that co
 # Analysis
 Here is our work on the [Google Colab](Presentation.ipynb)
 
-![IMG_0169](IMG_0169.jpeg)
+![image](https://github.com/user-attachments/assets/989ee7be-cd9c-4de2-9106-04252fcafba1)
 
 We create a BeautifulSoup object first. Then the second line allows us to search for a table within the link provided within beautiful soup. Finally the census_table finds the specific table we are looking for.
+
+This gives us the following table
+
+![image](https://github.com/user-attachments/assets/690158b9-b901-44b9-8e93-1ac14f7ddb90)
 
 
 ![IMG_0170](IMG_0170.jpeg)
