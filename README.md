@@ -55,6 +55,18 @@ After applying all the code to the original table we get this.
 
 ![IMG_0173](IMG_0173.jpeg)
 
+Next we have to add a column with all the prices converted to CAD ( Also dropping the useless "Rank" column
+
+![image](https://github.com/user-attachments/assets/6943f21f-7b61-4bf5-b1a8-5717ab54827f)
+
+After applying this code we get the following table
+
+![image](https://github.com/user-attachments/assets/2df0e3b6-fa6e-456a-af3c-e834dfb9d5fe)
+
+
+
+
+
 This is the graph we get.
 
 ![IMG_0174](IMG_0174.jpeg)
