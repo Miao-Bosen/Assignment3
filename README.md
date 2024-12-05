@@ -20,9 +20,9 @@ We create a BeautifulSoup object first. Then the second line allows us to search
 
 We only need 10 countries for this project, this line picks 10 from the table, including Canada.
 
-
-
 ![IMG_0171](IMG_0171.jpeg)
+
+ Here we list all the curencys we need for our table (Made the array in order), then we make another column with the currency symbols.
 
 ![IMG_0172](IMG_0172.jpeg)
 
