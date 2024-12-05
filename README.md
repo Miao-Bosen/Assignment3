@@ -20,12 +20,18 @@ This gives us the following table
 
 ![image](https://github.com/user-attachments/assets/690158b9-b901-44b9-8e93-1ac14f7ddb90)
 
-
+Then We need to chose 10 countires including Canada from this data set
 ![IMG_0170](IMG_0170.jpeg)
 
 We only need 10 countries for this project, this line picks 10 from the table, including Canada.
 
-![IMG_0171](IMG_0171.jpeg)
+![image](https://github.com/user-attachments/assets/45a44b88-940c-413b-a047-ff0c84a4926d)
+
+Which gives us this table
+
+![image](https://github.com/user-attachments/assets/cc55c856-24dc-45bd-b5a8-591ca465fef8)
+
+
 
  Here we list all the curencys we need for our table (Made the array in order), then we make another column with the currency symbols.
 
