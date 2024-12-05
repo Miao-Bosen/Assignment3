@@ -20,8 +20,6 @@ This gives us the following table
 
 ![image](https://github.com/user-attachments/assets/690158b9-b901-44b9-8e93-1ac14f7ddb90)
 
-Then We need to chose 10 countires including Canada from this data set
-![IMG_0170](IMG_0170.jpeg)
 
 We only need 10 countries for this project, this line picks 10 from the table, including Canada.
 
