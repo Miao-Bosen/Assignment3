@@ -31,7 +31,7 @@ Which gives us this table
 
 
 
- Here we list all the curencys we need for our table (Made the array in order), then we make another column with the currency symbols.
+Here we list all the curencys we need for our table (Made the array in order), then we make another column with the currency symbols.
 
 ![IMG_0172](IMG_0172.jpeg)
 
