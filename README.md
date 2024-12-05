@@ -26,7 +26,23 @@ We only need 10 countries for this project, this line picks 10 from the table, i
 
 ![IMG_0172](IMG_0172.jpeg)
 
+First of all, we list the exchange rates for these ten counrtries.
+
+Since the table we imported does not have "Local" prices of eggs, we need to deifine a function tp work backwards and get that information.
+ 
+ By using the 'if', we set what would happen if a currency symbol from the table matches one from the exchange rates
+
+The currency line here creates a list of all the converted currencys, extracts the prices in usd and currency for a row,
+
+Then we adopt the function to convert the prices to the local currency           
+
+Here we use a with column function to create a new column and adds it to the original.
+
+ 
+
 ![IMG_0173](IMG_0173.jpeg)
+
+This is the graph we get.
 
 ![IMG_0174](IMG_0174.jpeg)
 
