@@ -29,9 +29,7 @@ Which gives us this table
 
 ![image](https://github.com/user-attachments/assets/cc55c856-24dc-45bd-b5a8-591ca465fef8)
 
-
-
-Here we list all the curencys we need for our table (Made the array in order), then we make another column with the currency symbols.
+Because of the table being in USD we are tasked with converting it back into local price with currency symbols.
 
 ![IMG_0172](IMG_0172.jpeg)
 
